@@ -2,7 +2,7 @@
 layout: ampstory
 title: 10 Of The Best Farms in Rhode Island
 cover:
-   title:10 Of The Best Farms in Rhode Island 
+   title: 10 Of The Best Farms in Rhode Island 
    subtitle: Open Directory Project
    background: ../assets/images/farms/cover.jpg
 
