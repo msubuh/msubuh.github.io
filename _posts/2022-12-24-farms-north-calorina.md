@@ -13,7 +13,7 @@ pages:
    background: ../assets/images/farms/A.jpg
    backgroundblur: true   
  - layout: thirds
-   top: <h1>#2 Apple Hill Farm: Reservations Required</h1>
+   top: <h1>#2 Apple Hill Farms - Reservations Required</h1>
    bottom: "<p>We had a BLAST on our tour! Abby was a fantastic and informative guide.</p>"
    background: ../assets/images/farms/B.jpg
    backgroundblur: true  
