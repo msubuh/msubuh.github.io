@@ -60,7 +60,7 @@ pages:
  - layout: thirds
    middle: Continue reading...
    cta:
-      link:https://www.knot35.com/toplist/10-incredible-farms-in-georgia-you-need-to-visit/ 
+      link: https://www.knot35.com/toplist/10-incredible-farms-in-georgia-you-need-to-visit/ 
       text: 10 Incredible Farms in Georgia
       
 ---
